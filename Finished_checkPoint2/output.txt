@@ -1,0 +1,2000 @@
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 0, prob1 = 0.000000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 1, prob1 = 0.000000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 2, prob1 = 0.000000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 3, prob1 = 0.000000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 4, prob1 = 0.000000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 5, prob1 = 0.000000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 6, prob1 = 0.000000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 7, prob1 = 0.000000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 8, prob1 = 0.000000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 9, prob1 = 0.000000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 10, prob1 = 0.000000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 11, prob1 = 0.000000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 12, prob1 = 0.000000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 13, prob1 = 0.000000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 14, prob1 = 0.000000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 15, prob1 = 0.000000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 16, prob1 = 0.000000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 17, prob1 = 0.000000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 18, prob1 = 0.000000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 0, p3 = 19, prob1 = 0.000000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 0, prob1 = 0.050000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 1, prob1 = 0.050000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 2, prob1 = 0.050000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 3, prob1 = 0.050000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 4, prob1 = 0.050000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 5, prob1 = 0.050000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 6, prob1 = 0.050000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 7, prob1 = 0.050000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 8, prob1 = 0.050000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 9, prob1 = 0.050000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 10, prob1 = 0.050000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 11, prob1 = 0.050000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 12, prob1 = 0.050000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 13, prob1 = 0.050000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 14, prob1 = 0.050000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 15, prob1 = 0.050000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 16, prob1 = 0.050000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 17, prob1 = 0.050000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 18, prob1 = 0.050000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 1, p3 = 19, prob1 = 0.050000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 0, prob1 = 0.100000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 1, prob1 = 0.100000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 2, prob1 = 0.100000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 3, prob1 = 0.100000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 4, prob1 = 0.100000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 5, prob1 = 0.100000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 6, prob1 = 0.100000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 7, prob1 = 0.100000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 8, prob1 = 0.100000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 9, prob1 = 0.100000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 10, prob1 = 0.100000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 11, prob1 = 0.100000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 12, prob1 = 0.100000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 13, prob1 = 0.100000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 14, prob1 = 0.100000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 15, prob1 = 0.100000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 16, prob1 = 0.100000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 17, prob1 = 0.100000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 18, prob1 = 0.100000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 2, p3 = 19, prob1 = 0.100000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 0, prob1 = 0.150000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 1, prob1 = 0.150000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 2, prob1 = 0.150000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 3, prob1 = 0.150000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 4, prob1 = 0.150000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 5, prob1 = 0.150000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 6, prob1 = 0.150000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 7, prob1 = 0.150000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 8, prob1 = 0.150000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 9, prob1 = 0.150000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 10, prob1 = 0.150000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 11, prob1 = 0.150000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 12, prob1 = 0.150000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 13, prob1 = 0.150000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 14, prob1 = 0.150000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 15, prob1 = 0.150000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 16, prob1 = 0.150000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 17, prob1 = 0.150000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 18, prob1 = 0.150000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 3, p3 = 19, prob1 = 0.150000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 0, prob1 = 0.200000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 1, prob1 = 0.200000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 2, prob1 = 0.200000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 3, prob1 = 0.200000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 4, prob1 = 0.200000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 5, prob1 = 0.200000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 6, prob1 = 0.200000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 7, prob1 = 0.200000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 8, prob1 = 0.200000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 9, prob1 = 0.200000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 10, prob1 = 0.200000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 11, prob1 = 0.200000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 12, prob1 = 0.200000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 13, prob1 = 0.200000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 14, prob1 = 0.200000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 15, prob1 = 0.200000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 16, prob1 = 0.200000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 17, prob1 = 0.200000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 18, prob1 = 0.200000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 4, p3 = 19, prob1 = 0.200000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 0, prob1 = 0.250000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 1, prob1 = 0.250000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 2, prob1 = 0.250000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 3, prob1 = 0.250000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 4, prob1 = 0.250000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 5, prob1 = 0.250000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 6, prob1 = 0.250000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 7, prob1 = 0.250000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 8, prob1 = 0.250000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 9, prob1 = 0.250000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 10, prob1 = 0.250000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 11, prob1 = 0.250000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 12, prob1 = 0.250000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 13, prob1 = 0.250000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 14, prob1 = 0.250000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 15, prob1 = 0.250000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 16, prob1 = 0.250000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 17, prob1 = 0.250000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 18, prob1 = 0.250000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 5, p3 = 19, prob1 = 0.250000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 0, prob1 = 0.300000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 1, prob1 = 0.300000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 2, prob1 = 0.300000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 3, prob1 = 0.300000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 4, prob1 = 0.300000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 5, prob1 = 0.300000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 6, prob1 = 0.300000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 7, prob1 = 0.300000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 8, prob1 = 0.300000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 278.180000
+<I> = 9.620000
+p1 = 6, p3 = 9, prob1 = 0.300000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 6, p3 = 10, prob1 = 0.300000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 1661.300000
+<I> = 36.780000
+p1 = 6, p3 = 11, prob1 = 0.300000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 12550.620000
+<I> = 105.140000
+p1 = 6, p3 = 12, prob1 = 0.300000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 30366.480000
+<I> = 169.200000
+p1 = 6, p3 = 13, prob1 = 0.300000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 40910.340000
+<I> = 200.660000
+p1 = 6, p3 = 14, prob1 = 0.300000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 63192.280000
+<I> = 249.080000
+p1 = 6, p3 = 15, prob1 = 0.300000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 67818.320000
+<I> = 257.880000
+p1 = 6, p3 = 16, prob1 = 0.300000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 100657.320000
+<I> = 315.120000
+p1 = 6, p3 = 17, prob1 = 0.300000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 100739.860000
+<I> = 314.940000
+p1 = 6, p3 = 18, prob1 = 0.300000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 111676.380000
+<I> = 332.500000
+p1 = 6, p3 = 19, prob1 = 0.300000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 0, prob1 = 0.350000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 1, prob1 = 0.350000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 2, prob1 = 0.350000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 3, prob1 = 0.350000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 4, prob1 = 0.350000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 7, p3 = 5, prob1 = 0.350000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 9089.840000
+<I> = 92.360000
+p1 = 7, p3 = 6, prob1 = 0.350000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 29864.800000
+<I> = 169.560000
+p1 = 7, p3 = 7, prob1 = 0.350000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 47668.360000
+<I> = 212.680000
+p1 = 7, p3 = 8, prob1 = 0.350000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 94223.020000
+<I> = 305.420000
+p1 = 7, p3 = 9, prob1 = 0.350000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 117132.740000
+<I> = 340.420000
+p1 = 7, p3 = 10, prob1 = 0.350000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 142721.920000
+<I> = 375.520000
+p1 = 7, p3 = 11, prob1 = 0.350000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 160407.600000
+<I> = 398.960000
+p1 = 7, p3 = 12, prob1 = 0.350000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 181658.020000
+<I> = 425.060000
+p1 = 7, p3 = 13, prob1 = 0.350000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 212390.820000
+<I> = 459.620000
+p1 = 7, p3 = 14, prob1 = 0.350000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 221251.060000
+<I> = 469.460000
+p1 = 7, p3 = 15, prob1 = 0.350000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 246037.520000
+<I> = 494.640000
+p1 = 7, p3 = 16, prob1 = 0.350000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 247671.460000
+<I> = 496.260000
+p1 = 7, p3 = 17, prob1 = 0.350000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 282388.680000
+<I> = 530.240000
+p1 = 7, p3 = 18, prob1 = 0.350000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 290357.220000
+<I> = 537.540000
+p1 = 7, p3 = 19, prob1 = 0.350000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 8, p3 = 0, prob1 = 0.400000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 8, p3 = 1, prob1 = 0.400000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 8, p3 = 2, prob1 = 0.400000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 8, p3 = 3, prob1 = 0.400000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 4354.260000
+<I> = 60.260000
+p1 = 8, p3 = 4, prob1 = 0.400000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 30014.100000
+<I> = 170.340000
+p1 = 8, p3 = 5, prob1 = 0.400000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 68808.860000
+<I> = 259.860000
+p1 = 8, p3 = 6, prob1 = 0.400000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 112353.500000
+<I> = 332.980000
+p1 = 8, p3 = 7, prob1 = 0.400000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 159968.780000
+<I> = 398.300000
+p1 = 8, p3 = 8, prob1 = 0.400000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 186432.740000
+<I> = 430.740000
+p1 = 8, p3 = 9, prob1 = 0.400000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 231612.840000
+<I> = 480.280000
+p1 = 8, p3 = 10, prob1 = 0.400000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 268254.780000
+<I> = 516.380000
+p1 = 8, p3 = 11, prob1 = 0.400000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 298891.980000
+<I> = 545.220000
+p1 = 8, p3 = 12, prob1 = 0.400000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 329363.060000
+<I> = 573.060000
+p1 = 8, p3 = 13, prob1 = 0.400000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 345707.520000
+<I> = 587.280000
+p1 = 8, p3 = 14, prob1 = 0.400000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 376994.200000
+<I> = 613.280000
+p1 = 8, p3 = 15, prob1 = 0.400000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 393837.020000
+<I> = 625.940000
+p1 = 8, p3 = 16, prob1 = 0.400000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 409131.820000
+<I> = 638.740000
+p1 = 8, p3 = 17, prob1 = 0.400000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 445214.740000
+<I> = 666.580000
+p1 = 8, p3 = 18, prob1 = 0.400000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 451131.440000
+<I> = 670.920000
+p1 = 8, p3 = 19, prob1 = 0.400000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 9, p3 = 0, prob1 = 0.450000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 9, p3 = 1, prob1 = 0.450000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 9, p3 = 2, prob1 = 0.450000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 12953.920000
+<I> = 108.600000
+p1 = 9, p3 = 3, prob1 = 0.450000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 43331.540000
+<I> = 204.100000
+p1 = 9, p3 = 4, prob1 = 0.450000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 82102.920000
+<I> = 284.560000
+p1 = 9, p3 = 5, prob1 = 0.450000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 144776.820000
+<I> = 379.340000
+p1 = 9, p3 = 6, prob1 = 0.450000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 182288.320000
+<I> = 425.560000
+p1 = 9, p3 = 7, prob1 = 0.450000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 230683.020000
+<I> = 478.900000
+p1 = 9, p3 = 8, prob1 = 0.450000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 283587.920000
+<I> = 531.280000
+p1 = 9, p3 = 9, prob1 = 0.450000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 322856.820000
+<I> = 567.420000
+p1 = 9, p3 = 10, prob1 = 0.450000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 359589.260000
+<I> = 598.860000
+p1 = 9, p3 = 11, prob1 = 0.450000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 397778.100000
+<I> = 629.820000
+p1 = 9, p3 = 12, prob1 = 0.450000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 443025.160000
+<I> = 664.800000
+p1 = 9, p3 = 13, prob1 = 0.450000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 478121.800000
+<I> = 690.720000
+p1 = 9, p3 = 14, prob1 = 0.450000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 488747.720000
+<I> = 698.520000
+p1 = 9, p3 = 15, prob1 = 0.450000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 532714.300000
+<I> = 729.260000
+p1 = 9, p3 = 16, prob1 = 0.450000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 557415.040000
+<I> = 745.960000
+p1 = 9, p3 = 17, prob1 = 0.450000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 574844.600000
+<I> = 757.400000
+p1 = 9, p3 = 18, prob1 = 0.450000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 586897.940000
+<I> = 765.540000
+p1 = 9, p3 = 19, prob1 = 0.450000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 10, p3 = 0, prob1 = 0.500000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 10, p3 = 1, prob1 = 0.500000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 10, p3 = 2, prob1 = 0.500000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 32661.200000
+<I> = 176.720000
+p1 = 10, p3 = 3, prob1 = 0.500000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 78608.100000
+<I> = 278.340000
+p1 = 10, p3 = 4, prob1 = 0.500000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 132131.800000
+<I> = 362.080000
+p1 = 10, p3 = 5, prob1 = 0.500000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 193225.100000
+<I> = 438.100000
+p1 = 10, p3 = 6, prob1 = 0.500000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 251473.620000
+<I> = 500.380000
+p1 = 10, p3 = 7, prob1 = 0.500000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 304166.000000
+<I> = 550.400000
+p1 = 10, p3 = 8, prob1 = 0.500000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 364608.840000
+<I> = 603.040000
+p1 = 10, p3 = 9, prob1 = 0.500000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 403925.660000
+<I> = 634.540000
+p1 = 10, p3 = 10, prob1 = 0.500000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 453857.660000
+<I> = 672.940000
+p1 = 10, p3 = 11, prob1 = 0.500000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 505224.240000
+<I> = 710.240000
+p1 = 10, p3 = 12, prob1 = 0.500000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 525820.020000
+<I> = 724.660000
+p1 = 10, p3 = 13, prob1 = 0.500000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 570190.860000
+<I> = 754.500000
+p1 = 10, p3 = 14, prob1 = 0.500000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 610715.580000
+<I> = 780.740000
+p1 = 10, p3 = 15, prob1 = 0.500000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 640447.900000
+<I> = 799.780000
+p1 = 10, p3 = 16, prob1 = 0.500000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 664584.180000
+<I> = 814.620000
+p1 = 10, p3 = 17, prob1 = 0.500000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 682650.720000
+<I> = 825.840000
+p1 = 10, p3 = 18, prob1 = 0.500000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 722273.660000
+<I> = 849.420000
+p1 = 10, p3 = 19, prob1 = 0.500000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 11, p3 = 0, prob1 = 0.550000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 11, p3 = 1, prob1 = 0.550000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 12236.080000
+<I> = 103.600000
+p1 = 11, p3 = 2, prob1 = 0.550000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 45779.420000
+<I> = 209.940000
+p1 = 11, p3 = 3, prob1 = 0.550000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 102102.720000
+<I> = 318.000000
+p1 = 11, p3 = 4, prob1 = 0.550000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 167044.820000
+<I> = 406.420000
+p1 = 11, p3 = 5, prob1 = 0.550000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 227911.440000
+<I> = 476.000000
+p1 = 11, p3 = 6, prob1 = 0.550000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 301175.780000
+<I> = 547.900000
+p1 = 11, p3 = 7, prob1 = 0.550000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 358245.580000
+<I> = 597.660000
+p1 = 11, p3 = 8, prob1 = 0.550000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 424528.480000
+<I> = 651.040000
+p1 = 11, p3 = 9, prob1 = 0.550000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 477602.160000
+<I> = 690.640000
+p1 = 11, p3 = 10, prob1 = 0.550000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 542433.720000
+<I> = 735.680000
+p1 = 11, p3 = 11, prob1 = 0.550000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 575596.060000
+<I> = 758.180000
+p1 = 11, p3 = 12, prob1 = 0.550000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 624404.560000
+<I> = 789.520000
+p1 = 11, p3 = 13, prob1 = 0.550000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 663308.840000
+<I> = 813.760000
+p1 = 11, p3 = 14, prob1 = 0.550000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 694867.360000
+<I> = 832.960000
+p1 = 11, p3 = 15, prob1 = 0.550000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 730151.080000
+<I> = 853.840000
+p1 = 11, p3 = 16, prob1 = 0.550000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 772479.440000
+<I> = 878.320000
+p1 = 11, p3 = 17, prob1 = 0.550000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 801712.800000
+<I> = 894.920000
+p1 = 11, p3 = 18, prob1 = 0.550000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 818341.240000
+<I> = 904.360000
+p1 = 11, p3 = 19, prob1 = 0.550000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 12, p3 = 0, prob1 = 0.600000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 12, p3 = 1, prob1 = 0.600000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 21593.060000
+<I> = 142.980000
+p1 = 12, p3 = 2, prob1 = 0.600000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 63646.740000
+<I> = 250.100000
+p1 = 12, p3 = 3, prob1 = 0.600000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 117086.680000
+<I> = 340.320000
+p1 = 12, p3 = 4, prob1 = 0.600000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 199619.200000
+<I> = 445.560000
+p1 = 12, p3 = 5, prob1 = 0.600000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 271803.480000
+<I> = 520.280000
+p1 = 12, p3 = 6, prob1 = 0.600000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 334963.980000
+<I> = 577.940000
+p1 = 12, p3 = 7, prob1 = 0.600000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 410416.900000
+<I> = 639.860000
+p1 = 12, p3 = 8, prob1 = 0.600000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 480086.560000
+<I> = 692.440000
+p1 = 12, p3 = 9, prob1 = 0.600000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 538103.200000
+<I> = 733.040000
+p1 = 12, p3 = 10, prob1 = 0.600000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 585852.440000
+<I> = 764.600000
+p1 = 12, p3 = 11, prob1 = 0.600000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 642007.880000
+<I> = 800.720000
+p1 = 12, p3 = 12, prob1 = 0.600000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 702847.520000
+<I> = 837.880000
+p1 = 12, p3 = 13, prob1 = 0.600000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 746049.720000
+<I> = 863.120000
+p1 = 12, p3 = 14, prob1 = 0.600000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 768727.600000
+<I> = 876.240000
+p1 = 12, p3 = 15, prob1 = 0.600000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 831447.360000
+<I> = 911.520000
+p1 = 12, p3 = 16, prob1 = 0.600000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 854858.320000
+<I> = 924.080000
+p1 = 12, p3 = 17, prob1 = 0.600000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 875405.020000
+<I> = 935.140000
+p1 = 12, p3 = 18, prob1 = 0.600000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 922949.360000
+<I> = 960.200000
+p1 = 12, p3 = 19, prob1 = 0.600000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 13, p3 = 0, prob1 = 0.650000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 13, p3 = 1, prob1 = 0.650000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 23828.520000
+<I> = 150.320000
+p1 = 13, p3 = 2, prob1 = 0.650000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 74592.120000
+<I> = 270.640000
+p1 = 13, p3 = 3, prob1 = 0.650000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 145257.320000
+<I> = 379.600000
+p1 = 13, p3 = 4, prob1 = 0.650000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 226910.460000
+<I> = 474.900000
+p1 = 13, p3 = 5, prob1 = 0.650000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 305020.580000
+<I> = 551.660000
+p1 = 13, p3 = 6, prob1 = 0.650000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 383309.240000
+<I> = 618.120000
+p1 = 13, p3 = 7, prob1 = 0.650000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 457075.540000
+<I> = 675.460000
+p1 = 13, p3 = 8, prob1 = 0.650000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 529325.960000
+<I> = 726.800000
+p1 = 13, p3 = 9, prob1 = 0.650000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 601201.860000
+<I> = 774.820000
+p1 = 13, p3 = 10, prob1 = 0.650000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 665237.560000
+<I> = 815.040000
+p1 = 13, p3 = 11, prob1 = 0.650000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 711840.740000
+<I> = 843.300000
+p1 = 13, p3 = 12, prob1 = 0.650000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 764186.780000
+<I> = 873.740000
+p1 = 13, p3 = 13, prob1 = 0.650000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 816670.180000
+<I> = 903.100000
+p1 = 13, p3 = 14, prob1 = 0.650000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 858051.800000
+<I> = 925.880000
+p1 = 13, p3 = 15, prob1 = 0.650000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 906036.360000
+<I> = 951.360000
+p1 = 13, p3 = 16, prob1 = 0.650000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 941143.140000
+<I> = 969.780000
+p1 = 13, p3 = 17, prob1 = 0.650000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 972922.040000
+<I> = 985.920000
+p1 = 13, p3 = 18, prob1 = 0.650000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1000678.820000
+<I> = 999.820000
+p1 = 13, p3 = 19, prob1 = 0.650000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 14, p3 = 0, prob1 = 0.700000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 14, p3 = 1, prob1 = 0.700000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 30880.980000
+<I> = 170.700000
+p1 = 14, p3 = 2, prob1 = 0.700000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 86788.660000
+<I> = 292.620000
+p1 = 14, p3 = 3, prob1 = 0.700000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 163674.240000
+<I> = 402.960000
+p1 = 14, p3 = 4, prob1 = 0.700000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 243784.460000
+<I> = 492.700000
+p1 = 14, p3 = 5, prob1 = 0.700000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 337555.400000
+<I> = 580.200000
+p1 = 14, p3 = 6, prob1 = 0.700000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 418675.000000
+<I> = 646.360000
+p1 = 14, p3 = 7, prob1 = 0.700000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 491298.980000
+<I> = 700.140000
+p1 = 14, p3 = 8, prob1 = 0.700000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 580047.780000
+<I> = 760.980000
+p1 = 14, p3 = 9, prob1 = 0.700000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 648137.520000
+<I> = 804.600000
+p1 = 14, p3 = 10, prob1 = 0.700000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 709709.860000
+<I> = 841.900000
+p1 = 14, p3 = 11, prob1 = 0.700000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 771775.200000
+<I> = 878.000000
+p1 = 14, p3 = 12, prob1 = 0.700000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 832393.300000
+<I> = 911.940000
+p1 = 14, p3 = 13, prob1 = 0.700000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 883373.280000
+<I> = 939.480000
+p1 = 14, p3 = 14, prob1 = 0.700000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 924542.340000
+<I> = 961.180000
+p1 = 14, p3 = 15, prob1 = 0.700000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 971760.460000
+<I> = 985.300000
+p1 = 14, p3 = 16, prob1 = 0.700000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1012482.900000
+<I> = 1005.620000
+p1 = 14, p3 = 17, prob1 = 0.700000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1049523.020000
+<I> = 1024.060000
+p1 = 14, p3 = 18, prob1 = 0.700000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1081523.860000
+<I> = 1039.620000
+p1 = 14, p3 = 19, prob1 = 0.700000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 15, p3 = 0, prob1 = 0.750000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 15, p3 = 1, prob1 = 0.750000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 36921.340000
+<I> = 188.380000
+p1 = 15, p3 = 2, prob1 = 0.750000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 96674.680000
+<I> = 308.360000
+p1 = 15, p3 = 3, prob1 = 0.750000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 180277.760000
+<I> = 423.280000
+p1 = 15, p3 = 4, prob1 = 0.750000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 280168.740000
+<I> = 528.380000
+p1 = 15, p3 = 5, prob1 = 0.750000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 359586.860000
+<I> = 598.940000
+p1 = 15, p3 = 6, prob1 = 0.750000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 468443.920000
+<I> = 683.800000
+p1 = 15, p3 = 7, prob1 = 0.750000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 535216.820000
+<I> = 730.900000
+p1 = 15, p3 = 8, prob1 = 0.750000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 624138.980000
+<I> = 789.500000
+p1 = 15, p3 = 9, prob1 = 0.750000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 689111.020000
+<I> = 829.580000
+p1 = 15, p3 = 10, prob1 = 0.750000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 750231.820000
+<I> = 865.540000
+p1 = 15, p3 = 11, prob1 = 0.750000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 829765.360000
+<I> = 910.400000
+p1 = 15, p3 = 12, prob1 = 0.750000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 864817.140000
+<I> = 929.380000
+p1 = 15, p3 = 13, prob1 = 0.750000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 922765.340000
+<I> = 960.140000
+p1 = 15, p3 = 14, prob1 = 0.750000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 997098.240000
+<I> = 998.080000
+p1 = 15, p3 = 15, prob1 = 0.750000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 1037823.000000
+<I> = 1018.280000
+p1 = 15, p3 = 16, prob1 = 0.750000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1071663.640000
+<I> = 1034.840000
+p1 = 15, p3 = 17, prob1 = 0.750000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1111568.880000
+<I> = 1053.960000
+p1 = 15, p3 = 18, prob1 = 0.750000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1159645.500000
+<I> = 1076.500000
+p1 = 15, p3 = 19, prob1 = 0.750000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 16, p3 = 0, prob1 = 0.800000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 16, p3 = 1, prob1 = 0.800000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 39209.040000
+<I> = 193.760000
+p1 = 16, p3 = 2, prob1 = 0.800000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 104721.940000
+<I> = 321.260000
+p1 = 16, p3 = 3, prob1 = 0.800000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 190821.320000
+<I> = 434.800000
+p1 = 16, p3 = 4, prob1 = 0.800000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 288219.080000
+<I> = 535.920000
+p1 = 16, p3 = 5, prob1 = 0.800000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 398366.200000
+<I> = 630.200000
+p1 = 16, p3 = 6, prob1 = 0.800000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 482268.820000
+<I> = 693.660000
+p1 = 16, p3 = 7, prob1 = 0.800000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 569473.140000
+<I> = 753.980000
+p1 = 16, p3 = 8, prob1 = 0.800000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 651641.880000
+<I> = 806.600000
+p1 = 16, p3 = 9, prob1 = 0.800000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 730617.540000
+<I> = 854.300000
+p1 = 16, p3 = 10, prob1 = 0.800000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 804290.940000
+<I> = 896.220000
+p1 = 16, p3 = 11, prob1 = 0.800000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 874872.880000
+<I> = 934.960000
+p1 = 16, p3 = 12, prob1 = 0.800000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 927364.920000
+<I> = 962.640000
+p1 = 16, p3 = 13, prob1 = 0.800000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 977722.880000
+<I> = 988.240000
+p1 = 16, p3 = 14, prob1 = 0.800000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 1036087.780000
+<I> = 1017.420000
+p1 = 16, p3 = 15, prob1 = 0.800000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 1092391.040000
+<I> = 1044.800000
+p1 = 16, p3 = 16, prob1 = 0.800000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1130225.180000
+<I> = 1062.820000
+p1 = 16, p3 = 17, prob1 = 0.800000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1163731.740000
+<I> = 1078.380000
+p1 = 16, p3 = 18, prob1 = 0.800000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1218266.400000
+<I> = 1103.400000
+p1 = 16, p3 = 19, prob1 = 0.800000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 17, p3 = 0, prob1 = 0.850000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 17, p3 = 1, prob1 = 0.850000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 44163.080000
+<I> = 203.680000
+p1 = 17, p3 = 2, prob1 = 0.850000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 113536.840000
+<I> = 335.240000
+p1 = 17, p3 = 3, prob1 = 0.850000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 204086.440000
+<I> = 450.320000
+p1 = 17, p3 = 4, prob1 = 0.850000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 319189.400000
+<I> = 563.680000
+p1 = 17, p3 = 5, prob1 = 0.850000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 405864.420000
+<I> = 636.580000
+p1 = 17, p3 = 6, prob1 = 0.850000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 513938.440000
+<I> = 716.120000
+p1 = 17, p3 = 7, prob1 = 0.850000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 587100.660000
+<I> = 765.780000
+p1 = 17, p3 = 8, prob1 = 0.850000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 679734.080000
+<I> = 823.840000
+p1 = 17, p3 = 9, prob1 = 0.850000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 767144.560000
+<I> = 875.320000
+p1 = 17, p3 = 10, prob1 = 0.850000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 842823.080000
+<I> = 917.600000
+p1 = 17, p3 = 11, prob1 = 0.850000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 909737.800000
+<I> = 953.280000
+p1 = 17, p3 = 12, prob1 = 0.850000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 990088.180000
+<I> = 994.660000
+p1 = 17, p3 = 13, prob1 = 0.850000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 1039735.640000
+<I> = 1019.040000
+p1 = 17, p3 = 14, prob1 = 0.850000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 1081656.440000
+<I> = 1039.560000
+p1 = 17, p3 = 15, prob1 = 0.850000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 1145109.640000
+<I> = 1069.680000
+p1 = 17, p3 = 16, prob1 = 0.850000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1188524.460000
+<I> = 1089.820000
+p1 = 17, p3 = 17, prob1 = 0.850000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1229312.020000
+<I> = 1108.260000
+p1 = 17, p3 = 18, prob1 = 0.850000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1274576.960000
+<I> = 1128.680000
+p1 = 17, p3 = 19, prob1 = 0.850000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 18, p3 = 0, prob1 = 0.900000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 18, p3 = 1, prob1 = 0.900000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 48124.780000
+<I> = 214.700000
+p1 = 18, p3 = 2, prob1 = 0.900000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 125980.480000
+<I> = 353.160000
+p1 = 18, p3 = 3, prob1 = 0.900000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 213010.740000
+<I> = 460.540000
+p1 = 18, p3 = 4, prob1 = 0.900000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 317641.160000
+<I> = 562.560000
+p1 = 18, p3 = 5, prob1 = 0.900000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 420684.900000
+<I> = 647.780000
+p1 = 18, p3 = 6, prob1 = 0.900000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 528554.700000
+<I> = 726.540000
+p1 = 18, p3 = 7, prob1 = 0.900000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 632299.820000
+<I> = 794.860000
+p1 = 18, p3 = 8, prob1 = 0.900000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 715070.580000
+<I> = 844.860000
+p1 = 18, p3 = 9, prob1 = 0.900000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 799908.760000
+<I> = 893.880000
+p1 = 18, p3 = 10, prob1 = 0.900000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 882136.800000
+<I> = 938.800000
+p1 = 18, p3 = 11, prob1 = 0.900000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 947189.680000
+<I> = 972.920000
+p1 = 18, p3 = 12, prob1 = 0.900000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 1014572.040000
+<I> = 1006.920000
+p1 = 18, p3 = 13, prob1 = 0.900000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 1088483.580000
+<I> = 1042.940000
+p1 = 18, p3 = 14, prob1 = 0.900000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 1127837.660000
+<I> = 1061.700000
+p1 = 18, p3 = 15, prob1 = 0.900000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 1198447.800000
+<I> = 1094.280000
+p1 = 18, p3 = 16, prob1 = 0.900000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1236534.200000
+<I> = 1111.560000
+p1 = 18, p3 = 17, prob1 = 0.900000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1289372.800000
+<I> = 1135.160000
+p1 = 18, p3 = 18, prob1 = 0.900000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1342096.680000
+<I> = 1158.120000
+p1 = 18, p3 = 19, prob1 = 0.900000, prob3 = 0.950000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 19, p3 = 0, prob1 = 0.950000, prob3 = 0.000000
+current run completed...
+
+<I^2> = 0.000000
+<I> = 0.000000
+p1 = 19, p3 = 1, prob1 = 0.950000, prob3 = 0.050000
+current run completed...
+
+<I^2> = 51948.400000
+<I> = 221.040000
+p1 = 19, p3 = 2, prob1 = 0.950000, prob3 = 0.100000
+current run completed...
+
+<I^2> = 131868.940000
+<I> = 360.740000
+p1 = 19, p3 = 3, prob1 = 0.950000, prob3 = 0.150000
+current run completed...
+
+<I^2> = 225308.820000
+<I> = 473.820000
+p1 = 19, p3 = 4, prob1 = 0.950000, prob3 = 0.200000
+current run completed...
+
+<I^2> = 334913.940000
+<I> = 577.860000
+p1 = 19, p3 = 5, prob1 = 0.950000, prob3 = 0.250000
+current run completed...
+
+<I^2> = 440247.800000
+<I> = 663.040000
+p1 = 19, p3 = 6, prob1 = 0.950000, prob3 = 0.300000
+current run completed...
+
+<I^2> = 554339.140000
+<I> = 743.900000
+p1 = 19, p3 = 7, prob1 = 0.950000, prob3 = 0.350000
+current run completed...
+
+<I^2> = 644935.980000
+<I> = 802.300000
+p1 = 19, p3 = 8, prob1 = 0.950000, prob3 = 0.400000
+current run completed...
+
+<I^2> = 744638.500000
+<I> = 862.380000
+p1 = 19, p3 = 9, prob1 = 0.950000, prob3 = 0.450000
+current run completed...
+
+<I^2> = 834715.020000
+<I> = 913.060000
+p1 = 19, p3 = 10, prob1 = 0.950000, prob3 = 0.500000
+current run completed...
+
+<I^2> = 908851.580000
+<I> = 952.820000
+p1 = 19, p3 = 11, prob1 = 0.950000, prob3 = 0.550000
+current run completed...
+
+<I^2> = 975356.240000
+<I> = 987.080000
+p1 = 19, p3 = 12, prob1 = 0.950000, prob3 = 0.600000
+current run completed...
+
+<I^2> = 1074267.900000
+<I> = 1036.100000
+p1 = 19, p3 = 13, prob1 = 0.950000, prob3 = 0.650000
+current run completed...
+
+<I^2> = 1104124.120000
+<I> = 1050.320000
+p1 = 19, p3 = 14, prob1 = 0.950000, prob3 = 0.700000
+current run completed...
+
+<I^2> = 1175025.680000
+<I> = 1083.560000
+p1 = 19, p3 = 15, prob1 = 0.950000, prob3 = 0.750000
+current run completed...
+
+<I^2> = 1231288.000000
+<I> = 1109.240000
+p1 = 19, p3 = 16, prob1 = 0.950000, prob3 = 0.800000
+current run completed...
+
+<I^2> = 1291085.440000
+<I> = 1135.960000
+p1 = 19, p3 = 17, prob1 = 0.950000, prob3 = 0.850000
+current run completed...
+
+<I^2> = 1344690.040000
+<I> = 1159.240000
+p1 = 19, p3 = 18, prob1 = 0.950000, prob3 = 0.900000
+current run completed...
+
+<I^2> = 1368991.420000
+<I> = 1169.620000
+p1 = 19, p3 = 19, prob1 = 0.950000, prob3 = 0.950000
+current run completed...
+

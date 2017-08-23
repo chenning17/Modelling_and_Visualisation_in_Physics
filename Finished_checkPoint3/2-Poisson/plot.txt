@@ -1,0 +1,24 @@
+set t png
+set out 'Potential_vs_centre_P.png'
+p 'Potential_vs_centre_P.dat' w l
+
+set t png
+set out 'E_field_vs_centre_P.png'
+p 'E_field_vs_centre_P.dat' w l
+
+
+set t png
+set out 'E_field_data_P.png'
+splot 'E_field_data_P.dat' w vectors
+
+set t png
+set out 'E_field_data_P_00.png'
+set view 0,0
+splot 'E_field_data_P.dat' w vectors
+
+set t png
+set out 'E_field_slice_P.png'
+set view 0,0
+set xrange[15:35]
+set yrange[15:35]
+plot 'E_field_slice_P.dat' w vectors 

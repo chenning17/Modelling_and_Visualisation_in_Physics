@@ -1,0 +1,13 @@
+set t png
+set out 'SOR_w_plot.png'
+p 'SOR_w_plot.dat' u 2:1 w l
+
+set t png
+set out 'E_field.png'
+set view 0,0
+splot 'E_field_data_SOR.dat' with vectors
+
+set t png
+set out 'M_field.png'
+set view 0,0
+splot 'M_field_data_SOR.dat' with vectors

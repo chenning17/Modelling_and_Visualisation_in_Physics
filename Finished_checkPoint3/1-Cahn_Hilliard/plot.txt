@@ -1,0 +1,7 @@
+set t png
+set out '0.0_Free_energy_data.png'
+p '0.0_Free_energy_data.dat' w l
+
+set t png
+set out '0.5_Free_energy_data.png'
+p '0.5_Free_energy_data.dat' w l
